@@ -1,0 +1,17 @@
+{
+  "name": "modo-super-inteligente-Alexa",
+  "version": "1.0.0",
+  "description": "Skill de Alexa con integración de ChatGPT para responder preguntas de forma inteligente",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arturo Percino Castellanos",
+  "license": "Apache License 2.0",
+  "dependencies": {
+    "ask-sdk-core": "^2.12.0",
+    "ask-sdk-model": "^1.25.0",
+    "aws-sdk": "^2.1146.0",
+    "openai": "^4.7.0"
+  }
+}
